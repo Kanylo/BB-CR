@@ -1,6 +1,6 @@
 # Blender Batch Camera Rendering 
 ## This addon will 
-###  Let you batch render files from multiple angles 
+###  Let you batch-render objects 
 ###  Addon will set your camera empty to object origin
 ###  Addon can work with collections 
 
